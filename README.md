@@ -5,7 +5,7 @@
 This project integrates the Chapa Payment Gateway into a Django-based travel booking application. The implementation includes secure payment initiation, verification, transaction tracking, and email notifications.
 
 ## Author
-**Boluwatife Zainab Adeagbo**
+**Zainab Boluwatife Adeagbo**
 
 ---
 
